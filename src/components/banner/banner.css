@@ -1,0 +1,56 @@
+#banner {
+    padding-top: 218px;
+    padding-bottom: 128px;
+    background: #1c1e53 ;
+    position: relative;
+  }
+  .banner_content h1 {
+    color: var(--White, #fff);
+    font-family: Poppins;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 74px; /* 137.037% */
+
+  }
+  .banner_content p {
+    color: var(--White, #fff);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 175% */
+    padding-top: 24px;
+  }
+  .btn {
+    margin-top: 48px;
+  }
+  .btn .view {
+    padding: 16px 56px;
+    border-radius: 61px;
+    background: #fcd980;
+    color: #1b1c2b;
+    font-family: "Manrope", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    -webkit-border-radius: 61px;
+    -moz-border-radius: 61px;
+    -ms-border-radius: 61px;
+    -o-border-radius: 61px;
+  }
+  .btn .price {
+    color: var(--White, #fff);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 175% */
+    position: absolute;
+    top: 632px;
+    margin-left: 40px;
+  }
+  .btn .price i {
+    margin-left: 15px;
+  }

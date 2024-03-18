@@ -1,0 +1,75 @@
+#ban-three{
+    margin-top: 128px
+}
+.head-bar{
+    display: flex;
+}
+.three-head{
+    margin-top: 48px;
+}
+.three-head h2{
+    color: var(--Dark-blue, #282938);
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 64px; /* 133.333% */
+ 
+}
+.three-one h3{
+    color: var(--Dark-blue, #282938);
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px; /* 150% */
+}
+.three-one p{
+    color: var(--Dark-blue, #282938);
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    opacity: 0.7;
+}
+.head-bar{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: blue;
+    position: relative;
+}
+.head-bar::after{
+    width: 224px;
+    position: absolute;
+    left: 30px;
+    top: 10px;
+    content: '';
+    border: 2px dotted;
+}
+.head-bar h6{
+    letter-spacing: 4px;
+}
+.three-one h3{
+    margin-top: 32px;
+}
+.three-one p{
+    margin-top: 8px;
+}
+
+
+.ok9{
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+.three-head {
+
+
+  display: flex;
+
+}
+

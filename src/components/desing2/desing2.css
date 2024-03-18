@@ -1,0 +1,51 @@
+#work{
+    padding: 128px 0px;
+    background-color: #F4F6FC;
+}
+
+.work_left h4{
+    color: var(--Dark-blue, #282938);
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px;
+
+
+}
+
+.work_left h2{
+    color: var(--Dark-blue, #282938);
+
+    font-family: Poppins;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    padding:0px 50px 50px 0px;
+}
+.work_left p{
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding:0px 50px 50px 20px;
+}
+
+.work_left_one h2{
+    color: var(--Dark-blue, #282938);
+
+    font-family: Poppins;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    padding:20px 50px 50px 0px;
+}
+.work_left_one p{
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding:0px 50px 50px 20px;
+}
